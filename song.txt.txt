@@ -1,3 +1,6 @@
 part 1!!!! la-la-la
 part 2!!!! la-la-la
 part 3!!!! la-la-la
+
+
+2. Создайте ветку feature и добавьте в неё два коммита - 1 commit
